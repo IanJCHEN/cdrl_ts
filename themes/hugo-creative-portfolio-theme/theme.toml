@@ -9,12 +9,3 @@ homepage = "https://github.com/kishaningithub/hugo-creative-portfolio-theme"
 tags = ["creative", "portfolio", "projects", "minimal", "responsive"]
 features = ["disqus", "bootstrap", "responsive", "google analytics"]
 min_version = 0.20
-
-[author]
-  name = "Kishan B"
-  homepage = "https://github.com/kishaningithub"
-
-# If porting an existing theme
-[original]
-  name = "bootstrapious"
-  homepage = "https://bootstrapious.com/p/creative-portfolio"
