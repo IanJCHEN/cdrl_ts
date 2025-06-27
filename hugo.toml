@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/IanJCHEN/cdrl_ts'
 languageCode = 'en-us'
-title = 'Craft Desing Reasearch Lab'
+title = 'Craft Design Reasearch Lab'
 theme = 'hugo-creative-portfolio-theme'
 
 [params]
