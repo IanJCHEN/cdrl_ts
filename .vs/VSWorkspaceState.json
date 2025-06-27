@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows",
-    "\\content",
-    "\\content\\selected",
     "\\themes",
     "\\themes\\hugo-creative-portfolio-theme",
     "\\themes\\hugo-creative-portfolio-theme\\exampleSite",
     "\\themes\\hugo-creative-portfolio-theme\\layouts",
     "\\themes\\hugo-creative-portfolio-theme\\layouts\\_analytics",
-    "\\themes\\hugo-creative-portfolio-theme\\layouts\\_default"
+    "\\themes\\hugo-creative-portfolio-theme\\layouts\\_default",
+    "\\themes\\hugo-creative-portfolio-theme\\static",
+    "\\themes\\hugo-creative-portfolio-theme\\static\\css",
+    "\\themes\\hugo-creative-portfolio-theme\\static\\js"
   ],
-  "SelectedNode": "\\themes\\hugo-creative-portfolio-theme\\static\\css\\style.green.css",
+  "SelectedNode": "\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
   "PreviewInSolutionExplorer": false
 }

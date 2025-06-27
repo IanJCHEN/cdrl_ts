@@ -2135,6 +2135,16 @@ a.list-group-item.active > .badge,
     object-fit: cover; /* Optional: ensures images scale nicely */
 }
 
+.image-gallery {
+    scroll-snap-type: x mandatory;
+}
+
+.image-gallery img {
+    scroll-snap-align: start;
+}
+
+
+
 /* local fonts*/
 @font-face {
     font-family: 'Avenir';
