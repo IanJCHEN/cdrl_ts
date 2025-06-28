@@ -2,7 +2,7 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="row">
-        <div class="col-lg-8">
+        <div class="col-lg-10">
             <div class="content-column-content">
                 {{ with .Resources.ByType "image" }}
                 <div class="image-gallery" id="image-gallery">
@@ -13,7 +13,7 @@
                 {{ end }}
                 <!-- Modal for enlarged image -->
                 <div id="image-modal" class="modal" style="display: none;">
-                    <span class="modal-close">×</span>
+                    <span class="modal-close">X</span>
                     <img id="modal-image" class="modal-image-content" alt="Enlarged image">
                 </div>
                 <h1>{{ .Title }}</h1>
@@ -25,5 +25,5 @@
 </div>
 
 <!-- Include external JavaScript -->
-<script src="{{ "/js/gallery.js" | relURL }}"></script>
+<script src="{{ "js/gallery.js" | absURL }}"></script>
 {{ end }}

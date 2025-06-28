@@ -2159,7 +2159,7 @@ a.list-group-item.active > .badge,
     position: absolute;
     top: 20px;
     right: 30px;
-    color: white;
+    color: rgba(0, 0, 0, 0.8);
     font-size: 40px;
     cursor: pointer;
     z-index: 1001;
@@ -2176,9 +2176,6 @@ a.list-group-item.active > .badge,
 .image-gallery img {
     scroll-snap-align: start;
 }
-
-
-
 
 
 /* local fonts*/
