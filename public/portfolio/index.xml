@@ -9,32 +9,39 @@
     <lastBuildDate>Sat, 05 Nov 2016 19:56:17 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Item without image</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/work4/</link>
+      <title>Pause. Weave. Move.</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2024_summer/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2024_summer/</guid>
+      <description>&lt;p&gt;Location: Central, Hong Kong&lt;br&gt;&#xA;Date: Summer 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sound of Suzumushi</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/work5/</link>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_detour/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_detour/</guid>
+      <description>&lt;p&gt;Location: PMQ, Hong Kong&lt;br&gt;&#xA;Date:  Winter 2023&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Name of the work 6</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/work6/</link>
+      <title>Folding Custom Bike</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_spaceplus/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_spaceplus/</guid>
+      <description>&lt;p&gt;Location: Mong Kok, Hong Kong&lt;br&gt;&#xA;Date: Summer 2023&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moving Bamboo</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_vb/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/work6/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_vb/</guid>
+      <description>&lt;p&gt;Location: Venice, Italy&lt;br&gt;&#xA;Date: Summer - Winter 2023&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Name of the work 1</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/work1/</link>
+      <title>Bamboo Bolo Bau</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2021_bolobau/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2021_bolobau/</guid>
+      <description>&lt;p&gt;Location: CUHK AIT, Hong Kong&lt;br&gt;&#xA;Date: Summer 2021&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

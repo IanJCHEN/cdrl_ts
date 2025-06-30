@@ -43,19 +43,19 @@ theme = 'hugo-creative-portfolio-theme'
   home = true
 
   [[params.navlinks]]
-  name = "Projects"
-  url = "selected/"
+  name = "Research"
+  url = "research/"
 
   [[params.navlinks]]
-  name = "Research"
+  name = "Projects"
   url = "portfolio/"
 
   [[params.navlinks]]
-  name = "Events"
+  name = "Teaching"
   url = "events/"
   
   [[params.navlinks]]
-  name = "About"
+  name = "People"
   url = "contact/"
 
   [params.social]

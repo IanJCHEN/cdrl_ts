@@ -1,16 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\content",
+    "\\content\\events",
+    "\\content\\portfolio",
+    "\\content\\research",
+    "\\public",
+    "\\static",
     "\\themes",
     "\\themes\\hugo-creative-portfolio-theme",
     "\\themes\\hugo-creative-portfolio-theme\\layouts",
-    "\\themes\\hugo-creative-portfolio-theme\\layouts\\partials",
-    "\\themes\\hugo-creative-portfolio-theme\\layouts\\_analytics",
-    "\\themes\\hugo-creative-portfolio-theme\\layouts\\_default",
-    "\\themes\\hugo-creative-portfolio-theme\\static",
-    "\\themes\\hugo-creative-portfolio-theme\\static\\css",
-    "\\themes\\hugo-creative-portfolio-theme\\static\\js"
+    "\\themes\\hugo-creative-portfolio-theme\\layouts\\home"
   ],
-  "SelectedNode": "\\themes\\hugo-creative-portfolio-theme\\static\\css\\style.green.css",
+  "SelectedNode": "\\public\\portfolio",
   "PreviewInSolutionExplorer": false
 }

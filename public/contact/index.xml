@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contact on Craft Design Reasearch Lab</title>
+    <title>Contacts on Craft Design Reasearch Lab</title>
     <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/</link>
-    <description>Recent content in Contact on Craft Design Reasearch Lab</description>
+    <description>Recent content in Contacts on Craft Design Reasearch Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/IanJCHEN/cdrl_ts/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prof. Hiroyuki Shinohara</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/0_hiro/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/0_hiro/</guid>
+      <description>&lt;p&gt;Founder &amp;amp; Leader&lt;/p&gt;&#xA;&lt;p&gt;Assistant Professor, SoA, CUHK&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CHAN Tung Hoi Peter</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</guid>
+      <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. Student, TU Delft&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ian Chen</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/3_ian/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/3_ian/</guid>
+      <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;Ph.D. Student, CUHK&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lincoln Chan</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_lincoln/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_lincoln/</guid>
+      <description>&lt;p&gt;Collaborator&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. I Student, Harvard GSD&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tony Lau</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/tony/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/tony/</guid>
+      <description>&lt;p&gt;Collaborator&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. I Student, Harvard GSD&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prof. Sasatani Masamichi</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</guid>
+      <description>&lt;p&gt;Engineering Research Associate&lt;/p&gt;&#xA;&lt;p&gt;Professor, Tokyo Denki University&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

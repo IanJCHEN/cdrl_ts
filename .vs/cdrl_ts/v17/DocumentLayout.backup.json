@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "D:\\cdrl_ts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\scripts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\partials\\scripts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\contact\\list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\contact\\list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_analytics\\matomo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\_analytics\\matomo.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_sidebar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_sidebar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (3).html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (3).html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (4).html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (4).html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\content\\home\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\home\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hugo.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\content\\portfolio\\work5.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:content\\portfolio\\work5.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\static\\css\\style.green.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\static\\css\\style.green.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\static\\js\\gallery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:themes\\hugo-creative-portfolio-theme\\static\\js\\gallery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,90 +63,153 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "scripts.html",
-              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\scripts.html",
-              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\scripts.html",
-              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\scripts.html",
-              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\scripts.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "list.html",
+              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\contact\\list.html",
+              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\contact\\list.html",
+              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\contact\\list.html",
+              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\contact\\list.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-27T10:31:51.901Z",
+              "WhenOpened": "2025-06-28T04:10:13.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "portfolio.html",
-              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html",
-              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html",
-              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html",
-              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-27T10:31:49.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "matomo.html",
               "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_analytics\\matomo.html",
               "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\_analytics\\matomo.html",
               "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_analytics\\matomo.html",
               "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\_analytics\\matomo.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-27T10:31:38.147Z",
+              "WhenOpened": "2025-06-28T04:10:06.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "single (3).html",
-              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (3).html",
-              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (3).html",
-              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (3).html",
-              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (3).html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "social_buttons_in_sidebar.html",
+              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_sidebar.html",
+              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_sidebar.html",
+              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_sidebar.html",
+              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_sidebar.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-27T10:28:35.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "single (4).html",
-              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (4).html",
-              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (4).html",
-              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (4).html",
-              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single (4).html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-27T10:28:32.294Z",
+              "WhenOpened": "2025-06-28T04:09:19.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "single.html",
-              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
-              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
-              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
-              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "social_buttons_in_contact.html",
+              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_contact.html",
+              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_contact.html",
+              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_contact.html",
+              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\social_buttons_in_contact.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-27T09:57:33.225Z",
+              "WhenOpened": "2025-06-28T04:09:16.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_index.md",
+              "DocumentMoniker": "D:\\cdrl_ts\\_index.md",
+              "RelativeDocumentMoniker": "_index.md",
+              "ToolTip": "D:\\cdrl_ts\\_index.md",
+              "RelativeToolTip": "_index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-28T04:07:24.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "portfolio.html",
+              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html",
+              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html",
+              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html",
+              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\partials\\portfolio.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-28T04:07:07.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "work5.md",
+              "DocumentMoniker": "D:\\cdrl_ts\\content\\portfolio\\work5.md",
+              "RelativeDocumentMoniker": "content\\portfolio\\work5.md",
+              "ToolTip": "D:\\cdrl_ts\\content\\portfolio\\work5.md*",
+              "RelativeToolTip": "content\\portfolio\\work5.md*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-28T04:04:08.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.md",
+              "DocumentMoniker": "D:\\cdrl_ts\\content\\home\\index.md",
+              "RelativeDocumentMoniker": "content\\home\\index.md",
+              "ToolTip": "D:\\cdrl_ts\\content\\home\\index.md",
+              "RelativeToolTip": "content\\home\\index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACIBwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-28T04:02:47.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hugo.toml",
+              "DocumentMoniker": "D:\\cdrl_ts\\hugo.toml",
+              "RelativeDocumentMoniker": "hugo.toml",
+              "ToolTip": "D:\\cdrl_ts\\hugo.toml",
+              "RelativeToolTip": "hugo.toml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-28T04:01:39.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gallery.js",
+              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\static\\js\\gallery.js",
+              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\static\\js\\gallery.js",
+              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\static\\js\\gallery.js",
+              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\static\\js\\gallery.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-28T03:15:58.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "single.html",
+              "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
+              "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
+              "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
+              "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\layouts\\_default\\single.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-28T03:03:57.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "style.green.css",
               "DocumentMoniker": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\static\\css\\style.green.css",
               "RelativeDocumentMoniker": "themes\\hugo-creative-portfolio-theme\\static\\css\\style.green.css",
               "ToolTip": "D:\\cdrl_ts\\themes\\hugo-creative-portfolio-theme\\static\\css\\style.green.css",
               "RelativeToolTip": "themes\\hugo-creative-portfolio-theme\\static\\css\\style.green.css",
-              "ViewState": "AgIAAHIIAAAAAAAAAAAQwIMIAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcIAAAAAAAAAAAiwGsIAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-06-27T09:30:56.985Z",
               "EditorCaption": ""
