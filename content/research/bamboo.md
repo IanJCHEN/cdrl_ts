@@ -2,30 +2,16 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Bamboo woven structure"
 draft = false
-image = "research/bamboo/20250522_131543.jpg"
+image = "research/bamboo/bamboo.jpg"
 showonlyimage = false
 weight = 1
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+Transferring implicit bamboo weaving craft knowledge to explicit architectural design application through computational design methods
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The craft of bamboo weaving is rapidly disappearing in industrialised cities like Hong Kong. Traditional bamboo craft products are being replaced by mass-produced inexpensive alternatives made of synthetic materials. With little market demand, there is a lack of interest in the long process of learning bamboo weaving skills as a profession, therefore the knowledge is difficult to pass down to the next generation. Consequently, the potential of adopting weaving craft into contemporary application is also diminished. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Over the last 15 years, advance in computational design has aided the application of weaving in architecture in terms of geometry, topology, and physics. However, computational weaving using bamboo as a material and basketry weaving principles have not yet been thoroughly explored. Bamboo basket-weaving is performed by interlacing pliable long bamboo strips that hold up as a self-sustaining object without additional fasteners. There is insufficient study about the implication of unexpected structural deformation during such hand-weaving process, as forces applied will cause unusual repulsive forces.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+To address the deficiency in current knowledge, the proposed research aims to understand the properties of bamboo for the purpose of weaving. The findings about its material and structural properties will be used to develop a design method for woven bamboo structures. The findings will make the craft knowledge accessible to non-craft trained designers and fabricators who are interested in bamboo weaving.  

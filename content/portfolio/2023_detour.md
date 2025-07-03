@@ -7,8 +7,9 @@ title = "Sound of Suzumushi"
 weight = 2
 +++
 
-Location: PMQ, Hong Kong\
-Date:  Winter 2023
+*deTour Design Festival 2023 "New Know How"*\
+PMQ, Hong Kong\
+Winter 2023
 <!--more-->
 
 

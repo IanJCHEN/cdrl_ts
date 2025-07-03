@@ -7,8 +7,9 @@ title = "Folding Custom Bike"
 weight = 3
 +++
 
-Location: Mong Kok, Hong Kong\
-Date: Summer 2023
+*2nd Space Plus Community Festival*\
+Mong Kok, Hong Kong\
+Summer 2023
 <!--more-->
 
 

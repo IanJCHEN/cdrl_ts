@@ -10,38 +10,38 @@
     <atom:link href="http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pause. Weave. Move.</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2024_summer/</link>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2025_summer/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2024_summer/</guid>
-      <description>&lt;p&gt;Location: Central, Hong Kong&lt;br&gt;&#xA;Date: Summer 2025&lt;/p&gt;</description>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2025_summer/</guid>
+      <description>&lt;p&gt;&lt;em&gt;SummerFest 2025 &amp;ldquo;Bambooscape&amp;rdquo; feat. HKAC&lt;/em&gt;&lt;br&gt;&#xA;Central, Hong Kong&lt;br&gt;&#xA;Summer 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sound of Suzumushi</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_detour/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_detour/</guid>
-      <description>&lt;p&gt;Location: PMQ, Hong Kong&lt;br&gt;&#xA;Date:  Winter 2023&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;deTour Design Festival 2023 &amp;ldquo;New Know How&amp;rdquo;&lt;/em&gt;&lt;br&gt;&#xA;PMQ, Hong Kong&lt;br&gt;&#xA;Winter 2023&lt;/p&gt;</description>
     </item>
     <item>
       <title>Folding Custom Bike</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_spaceplus/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_spaceplus/</guid>
-      <description>&lt;p&gt;Location: Mong Kok, Hong Kong&lt;br&gt;&#xA;Date: Summer 2023&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Moving Bamboo</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_vb/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_vb/</guid>
-      <description>&lt;p&gt;Location: Venice, Italy&lt;br&gt;&#xA;Date: Summer - Winter 2023&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;2nd Space Plus Community Festival&lt;/em&gt;&lt;br&gt;&#xA;Mong Kok, Hong Kong&lt;br&gt;&#xA;Summer 2023&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bamboo Bolo Bau</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2021_bolobau/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2021_bolobau/</guid>
-      <description>&lt;p&gt;Location: CUHK AIT, Hong Kong&lt;br&gt;&#xA;Date: Summer 2021&lt;/p&gt;</description>
+      <description>&lt;p&gt;Research pilot project&lt;br&gt;&#xA;CUHK AIT, Hong Kong&lt;br&gt;&#xA;Summer 2021&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moving Bamboo</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_vb/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_vb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;18th Venice Biennale (2023) &amp;ldquo;Hong Kong Transformative&amp;rdquo;&lt;/em&gt;&lt;br&gt;&#xA;Venice, Italy&lt;br&gt;&#xA;Summer - Winter 2023&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

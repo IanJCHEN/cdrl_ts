@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "people/tony.jpg"
+image = "people/tony_2.jpg"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
 title = "Tony Lau"

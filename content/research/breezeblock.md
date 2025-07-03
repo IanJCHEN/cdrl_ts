@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
+image = "research/block/breezeblock.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Ventilation Block in Hong Kong"
@@ -7,7 +7,7 @@ draft = false
 weight = 3
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Reimagining craft and design of perforated blocks in subtropical urban context with contemporary technology
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

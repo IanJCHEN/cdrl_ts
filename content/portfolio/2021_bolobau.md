@@ -4,11 +4,12 @@ draft = false
 image = "portfolio/2021_bolobau.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Bamboo Bolo Bau"
-weight = 5
+weight = 3
 +++
 
-Location: CUHK AIT, Hong Kong\
-Date: Summer 2021
+Research pilot project\
+CUHK AIT, Hong Kong\
+Summer 2021
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

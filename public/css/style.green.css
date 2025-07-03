@@ -2127,12 +2127,30 @@ a.list-group-item.active > .badge,
     gap: 20px;
     overflow-x: auto;
     padding-bottom: 10px;
+    scroll-snap-type: x mandatory;
+    width: 100%;
+    max-height: 1100px;
 }
 
 .image-gallery img {
-    max-width: 200px;
-    height: auto;
-    object-fit: cover;
+    scroll-snap-align: start;
+}
+
+.gallery-item {
+    flex: 0 0 auto; /* Prevent items from stretching */
+    max-height: 1100px; /* Fixed height for all images (adjust as needed) */
+    display: flex;
+    align-items: center; /* Vertically center the image */
+    justify-content: center; /* Horizontally center the image */
+    background-color: #f0f0f0; /* Background for empty space around portrait images */
+}
+
+.gallery-image {
+    max-width: 100%; /* Fit within container width */
+    max-height: 100%; /* Fit within fixed height */
+    object-fit: contain; /* Scale image to cover the container, cropping if necessary */
+    object-position: center; /* Center the image */
+    display: block;
 }
 
 /* Modal styles */
@@ -2168,15 +2186,6 @@ a.list-group-item.active > .badge,
 .modal-close:hover {
     color: #ccc;
 }
-
-.image-gallery {
-    scroll-snap-type: x mandatory;
-}
-
-.image-gallery img {
-    scroll-snap-align: start;
-}
-
 
 /* local fonts*/
 @font-face {
