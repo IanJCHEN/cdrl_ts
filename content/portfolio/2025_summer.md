@@ -12,22 +12,9 @@ Central, Hong Kong\
 Summer 2025
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+“Weave. Pause. Move.” explores the traditional hexagonal weaving technique—commonly found in bamboo craftsmanship—and transforms it into a new architectural form. As the material is scaled up, its properties change; in response, the team conducted extensive experiments and computer simulations to develop a structural and construction system that is both visually appealing and technically feasible. The project aims to discover new applications for traditional craftsmanship.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+This work was a collaborative effort between the design team and eight student volunteers. Since the construction involved participants with no prior experience, the design process also emphasized how to make the techniques accessible and easy to learn in a short time. Interestingly, the project became a platform for interaction among architects, teachers, alumni, students, craftsmen, and the public—an integral part of building community through architecture.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+The structure consists of 30 to 40 bamboo slats, each made by cutting 5-meter-long bamboo poles. Although temporary in nature, the installation is lightweight and fully recyclable. The stones at the base serve as counterweights and were repurposed from leftover materials from other design exhibitions, underscoring the project's commitment to sustainability.
+In terms of spatial experience, the project seeks to harmonize the unspoken pressure of a dense urban environment with the flowing rhythm of nature. Situated in the heart of a bustling city, the bamboo pavilion’s organic, porous form allows wind and light to pass through—swaying with the bay breeze, dancing above the rippling water, and casting dynamic shadows on the ground. At its center, a skylight gently opens upward, symbolizing the connection between earth and sky. It invites hurried passersby to pause, offering a moment of quiet reflection—a silent call to reawaken our awareness of the natural world and our relationship with it.
