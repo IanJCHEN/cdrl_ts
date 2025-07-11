@@ -12,4 +12,6 @@ Collaborator
 M.Arch. I Student, Harvard GSD
 <!--more-->
 
-Lincoln Chan is a BSSc(AS) graduate from the School of Architecture, CUHK. His "Tower on Hillside" graduation project won the AIA Hong Kong Scholastic Award (2022). He is passionate about using construction methods to connect the community, and was a core member of multiple research projects concerning countryside conservation and community engagement.
+#### Introduction
+
+Lincoln Chan is a Master in Architecture (M.Arch I) student at the Harvard Graduate School of Design. He earned his BSSc in Architectural Studies from CUHK in 2022, graduating on the Dean’s List and receiving the AIA Hong Kong Scholastic Award. During his undergraduate studies, he held leadership roles in the architecture student society, actively contributing to academic and community initiatives. His interests span craft, technology, cultural landscapes, placemaking, community, architectural theory and education. Lincoln studies the social and anthropological value of craft and material, and experiment his ideas through co-creative projects with various local communities, focusing on natural-material-crafted dwellings, landscapes, installations, and exhibitions.

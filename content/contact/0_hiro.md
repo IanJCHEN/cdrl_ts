@@ -11,6 +11,7 @@ Founder & Leader
 
 Assistant Professor, SoA, CUHK
 <!--more-->
+
 #### Introduction
 
 Hiroyuki Shinohara is an Assistant Professor at the School of Architecture of the Chinese University of Hong Kong (CUHK). Before joining CUHK, he was an Assistant Professor in Architecture and Built Environment at the University of Nottingham, Ningbo.
