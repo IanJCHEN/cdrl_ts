@@ -10,22 +10,6 @@ weight = 3
 Reimagining craft and design of perforated blocks in subtropical urban context with contemporary technology
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+In modern architecture of Hong Kong and other Southeast Asian regions with tropical and subtropical climatic condition, perforated blocks, known as breeze blocks, are extensively used as passive design features, which enhances semi-outdoor thermal comfort, visual pleasure, and privacy through visual enclosure. This paper investigates the design method of application of breeze blocks through a performance-oriented computational method, integrating environmental simulation, multi-objective optimization and digital fabrication. The study is based on examining breeze block design application in Hong Kong architecture and classifying the features and usage pattern of existing cases on buildings. This study seeks to reimagine the design of breeze blocks, inherited from modern architecture, in a performance-oriented manner facilitated by contemporary computational technology.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+By reimagining breeze blocks through a performance-driven, computational approach, this study contributes to the revitalization of passive design strategies in architecture, promoting energy efficiency and environmental sustainability in high-density urban contexts. The findings aim to inspire architects and designers to adopt evidence-based methods for integrating cultural heritage with innovative technologies, fostering a responsive and adaptive architectural practice.
