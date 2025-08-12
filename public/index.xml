@@ -9,11 +9,11 @@
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/IanJCHEN/cdrl_ts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bamboo weaving</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/bambooweavingele/</link>
+      <title>Skin or Structure</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/20_21/</link>
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/bambooweavingele/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/20_21/</guid>
+      <description>&lt;p&gt;Transfer of Traditional Knowledge&lt;br&gt;&#xA;&lt;em&gt;AY2020-21 Term 2&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Hiroyuki Shinohara</title>
@@ -44,6 +44,13 @@
       <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. Student, TU Delft&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Function or Ornament</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/21_22/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/21_22/</guid>
+      <description>&lt;p&gt;Transfer of Traditional Knowledge&lt;br&gt;&#xA;&lt;em&gt;AY2021-22 Term 2&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sound of Suzumushi</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2023_detour/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
@@ -63,6 +70,13 @@
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/3_ian/</guid>
       <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;Ph.D. Student, CUHK&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Folding Movement</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/22_23/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/22_23/</guid>
+      <description>&lt;p&gt;Tectonics of Folding&lt;br&gt;&#xA;&lt;em&gt;AY2022-23 Term 2&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ventilation Block in Hong Kong</title>
@@ -86,6 +100,13 @@
       <description>&lt;p&gt;Research pilot project&lt;br&gt;&#xA;CUHK AIT, Hong Kong&lt;br&gt;&#xA;Summer 2021&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Craft and Architecture</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/23_24/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/23_24/</guid>
+      <description>&lt;p&gt;Regenerating Hong Kong’s Countryside&lt;br&gt;&#xA;&lt;em&gt;AY2023-24 Term 2&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Lincoln Chan</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_lincoln/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
@@ -100,6 +121,13 @@
       <description>&lt;p&gt;&lt;em&gt;18th Venice Biennale (2023) &amp;ldquo;Hong Kong Transformative&amp;rdquo;&lt;/em&gt;&lt;br&gt;&#xA;Venice, Italy&lt;br&gt;&#xA;Summer - Winter 2023&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Volumetric Textile</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/24_25/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/24_25/</guid>
+      <description>&lt;p&gt;Transforming Textile into Architectural Tectonics&lt;br&gt;&#xA;&lt;em&gt;AY2024-25 Summer&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Tony Lau</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/tony/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
@@ -112,27 +140,6 @@
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</guid>
       <description>&lt;p&gt;Engineering Research Associate&lt;/p&gt;&#xA;&lt;p&gt;Professor, Tokyo Denki University&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Block casting</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/elebreezeblock/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/elebreezeblock/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>paperfolding</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/elepaperfold/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/elepaperfold/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Item with image</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
