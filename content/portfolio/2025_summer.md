@@ -4,12 +4,13 @@ image = "portfolio/2025_summer.jpg"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "Pause. Weave. Move."
-weight = 1
+weight = 2
 +++
 
-*SummerFest 2025 "Bambooscape" feat. HKAC*\
-Central, Hong Kong\
+*SummerFest 2025 "Bambooscape" feat. HKAC* \
+Central, Hong Kong \
 Summer 2025
+
 <!--more-->
 
 “Weave. Pause. Move.” explores the traditional hexagonal weaving technique—commonly found in bamboo craftsmanship—and transforms it into a new architectural form. As the material is scaled up, its properties change; in response, the team conducted extensive experiments and computer simulations to develop a structural and construction system that is both visually appealing and technically feasible. The project aims to discover new applications for traditional craftsmanship.

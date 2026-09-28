@@ -4,12 +4,13 @@ draft = false
 image = "portfolio/2021_bolobau.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Bamboo Bolo Bau"
-weight = 3
+weight = 6
 +++
 
 Research pilot project\
-CUHK AIT, Hong Kong\
+CUHK AIT, Hong Kong \
 Summer 2021
+
 <!--more-->
 
 As a bamboo woven basket by the principal is a structure and a space to contain objects in it, carrying the properties of weaving, Bamboo Bolo Bao free stands on the ground only by touching on its edge. It forms a continuous single woven surface fabricated out of interlacing of long pliable bamboo strips, which forms a hexagonal pattern often typically called Kagome that exerts structural solidity. It is a self-bracing that turns soft materials into a stiff single surface volume without extra joints that connect or destroy different members. Formation of weaving pattern yields structural strength wherefore form and materiality is mutually dependent and inseparable to exert such effects.

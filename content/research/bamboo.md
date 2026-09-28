@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Bamboo woven structure"
+title = "Bamboo Woven Structure"
 draft = false
 image = "research/bamboo/bamboo.jpg"
 showonlyimage = false
