@@ -37,11 +37,11 @@
       <description>&lt;p&gt;Transferring implicit bamboo weaving craft knowledge to explicit architectural design application through computational design methods&lt;/p&gt;</description>
     </item>
     <item>
-      <title>CHAN Tung Hoi Peter</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</guid>
-      <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. Student, TU Delft&lt;/p&gt;</description>
+      <title>Prof. Sasatani Masamichi</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</guid>
+      <description>&lt;p&gt;Engineering Research Associate&lt;/p&gt;&#xA;&lt;p&gt;Professor, Tokyo Denki University&lt;/p&gt;</description>
     </item>
     <item>
       <title>Function or Ornament</title>
@@ -65,18 +65,18 @@
       <description>&lt;p&gt;Transforming traditional &amp;ldquo;white steel&amp;rdquo; craft knowledge into modern comprehension in its architectural application featuring various unique joints&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ian Chen</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/3_ian/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/3_ian/</guid>
-      <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;Ph.D. Student, CUHK&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Folding Movement</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/22_23/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/22_23/</guid>
       <description>&lt;p&gt;Tectonics of Folding&lt;br&gt;&#xA;&lt;em&gt;AY2022-23 Term 2&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Percy Wong</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_percy/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_percy/</guid>
+      <description>&lt;p&gt;Research Assistant&lt;/p&gt;&#xA;&lt;p&gt;Research Assistant, SoA, CUHK&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ventilation Block in Hong Kong</title>
@@ -93,18 +93,18 @@
       <description>&lt;p&gt;&lt;em&gt;deTour Design Festival 2023 &amp;ldquo;New Know How&amp;rdquo;&lt;/em&gt; &lt;br&gt;&#xA;PMQ, Hong Kong &lt;br&gt;&#xA;Winter 2023&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Ian Chen</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/3_ian/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/3_ian/</guid>
+      <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;Ph.D. Student, CUHK&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Craft and Architecture</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/23_24/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/23_24/</guid>
       <description>&lt;p&gt;Regenerating Hong Kong’s Countryside&lt;br&gt;&#xA;&lt;em&gt;AY2023-24 Term 2&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lincoln Chan</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_lincoln/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_lincoln/</guid>
-      <description>&lt;p&gt;Collaborator&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. I Student, Harvard GSD&lt;/p&gt;</description>
     </item>
     <item>
       <title>Folding Custom Bike</title>
@@ -114,18 +114,25 @@
       <description>&lt;p&gt;&lt;em&gt;2nd Space Plus Community Festival&lt;/em&gt; &lt;br&gt;&#xA;Mong Kok, Hong Kong &lt;br&gt;&#xA;Summer 2023&lt;/p&gt;</description>
     </item>
     <item>
+      <title>CHAN Tung Hoi Peter</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</guid>
+      <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;M.Arch., TU Delft&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ephemeral Architectures</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/25_26/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/25_26/</guid>
+      <description>&lt;p&gt;In the historical city of Naples &lt;br&gt;&#xA;&lt;em&gt;AY2025-26 Summer&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Volumetric Textile</title>
       <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/24_25/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/24_25/</guid>
       <description>&lt;p&gt;Transforming Textile into Architectural Tectonics&lt;br&gt;&#xA;&lt;em&gt;AY2024-25 Summer&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tony Lau</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/tony/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/tony/</guid>
-      <description>&lt;p&gt;Collaborator&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. I Student, Harvard GSD&lt;/p&gt;</description>
     </item>
     <item>
       <title>Moving Bamboo</title>
@@ -135,11 +142,11 @@
       <description>&lt;p&gt;&lt;em&gt;18th Venice Biennale (2023) &amp;ldquo;Hong Kong Transformative&amp;rdquo;&lt;/em&gt; &lt;br&gt;&#xA;Venice, Italy &lt;br&gt;&#xA;Summer - Winter 2023&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Prof. Sasatani Masamichi</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</link>
+      <title>Lincoln Chan</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_lincoln/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</guid>
-      <description>&lt;p&gt;Engineering Research Associate&lt;/p&gt;&#xA;&lt;p&gt;Professor, Tokyo Denki University&lt;/p&gt;</description>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_lincoln/</guid>
+      <description>&lt;p&gt;Collaborator&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. I Student, Harvard GSD&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bamboo Bolo Bau</title>
@@ -147,6 +154,13 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/portfolio/2021_bolobau/</guid>
       <description>&lt;p&gt;Research pilot project&lt;br&gt;&#xA;CUHK AIT, Hong Kong &lt;br&gt;&#xA;Summer 2021&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tony Lau</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/tony/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/tony/</guid>
+      <description>&lt;p&gt;Collaborator&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. I Student, Harvard GSD&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

@@ -16,11 +16,18 @@
       <description>&lt;p&gt;Founder &amp;amp; Leader&lt;/p&gt;&#xA;&lt;p&gt;Assistant Professor, SoA, CUHK&lt;/p&gt;</description>
     </item>
     <item>
-      <title>CHAN Tung Hoi Peter</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</guid>
-      <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. Student, TU Delft&lt;/p&gt;</description>
+      <title>Prof. Sasatani Masamichi</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</guid>
+      <description>&lt;p&gt;Engineering Research Associate&lt;/p&gt;&#xA;&lt;p&gt;Professor, Tokyo Denki University&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Percy Wong</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_percy/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/1_percy/</guid>
+      <description>&lt;p&gt;Research Assistant&lt;/p&gt;&#xA;&lt;p&gt;Research Assistant, SoA, CUHK&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ian Chen</title>
@@ -28,6 +35,13 @@
       <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/3_ian/</guid>
       <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;Ph.D. Student, CUHK&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CHAN Tung Hoi Peter</title>
+      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/2_peter/</guid>
+      <description>&lt;p&gt;Research Alumni&lt;/p&gt;&#xA;&lt;p&gt;M.Arch., TU Delft&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lincoln Chan</title>
@@ -42,13 +56,6 @@
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/tony/</guid>
       <description>&lt;p&gt;Collaborator&lt;/p&gt;&#xA;&lt;p&gt;M.Arch. I Student, Harvard GSD&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Prof. Sasatani Masamichi</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/contact/sasatani/</guid>
-      <description>&lt;p&gt;Engineering Research Associate&lt;/p&gt;&#xA;&lt;p&gt;Professor, Tokyo Denki University&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

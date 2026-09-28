@@ -4,7 +4,7 @@ image = "people/CDRL_Lincoln_Chan_2.jpg"
 showonlyimage = false
 date = "2016-11-05T20:02:19+05:30"
 title = "Lincoln Chan"
-weight = 4
+weight = 6
 +++
 
 Collaborator

@@ -61,7 +61,7 @@ theme = 'hugo-creative-portfolio-theme'
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
+  email         = "hiroyukishinohara@cuhk.edu.hk"
   twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   stackoverflow = "full profile url in stackoverflow"
