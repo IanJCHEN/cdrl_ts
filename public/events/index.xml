@@ -1,54 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Events on Craft Design Reasearch Lab</title>
-    <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/</link>
-    <description>Recent content in Events on Craft Design Reasearch Lab</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/IanJCHEN/cdrl_ts/events/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Skin or Structure</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/20_21/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/20_21/</guid>
-      <description>&lt;p&gt;Transfer of Traditional Knowledge&lt;br&gt;&#xA;&lt;em&gt;AY2020-21 Term 2&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Function or Ornament</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/21_22/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/21_22/</guid>
-      <description>&lt;p&gt;Transfer of Traditional Knowledge&lt;br&gt;&#xA;&lt;em&gt;AY2021-22 Term 2&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Folding Movement</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/22_23/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/22_23/</guid>
-      <description>&lt;p&gt;Tectonics of Folding&lt;br&gt;&#xA;&lt;em&gt;AY2022-23 Term 2&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Craft and Architecture</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/23_24/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/23_24/</guid>
-      <description>&lt;p&gt;Regenerating Hong Kong’s Countryside&lt;br&gt;&#xA;&lt;em&gt;AY2023-24 Term 2&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ephemeral Architectures</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/25_26/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/25_26/</guid>
-      <description>&lt;p&gt;In the historical city of Naples &lt;br&gt;&#xA;&lt;em&gt;AY2025-26 Summer&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Volumetric Textile</title>
-      <link>http://localhost:1313/IanJCHEN/cdrl_ts/events/24_25/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      <guid>http://localhost:1313/IanJCHEN/cdrl_ts/events/24_25/</guid>
-      <description>&lt;p&gt;Transforming Textile into Architectural Tectonics&lt;br&gt;&#xA;&lt;em&gt;AY2024-25 Summer&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events on Craft Design Reasearch Lab</title><link>https://craftdrl.org/events/</link><description>Recent content in Events on Craft Design Reasearch Lab</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate><atom:link href="https://craftdrl.org/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Skin or Structure</title><link>https://craftdrl.org/events/20_21/</link><pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate><guid>https://craftdrl.org/events/20_21/</guid><description>&lt;p&gt;Transfer of Traditional Knowledge&lt;br&gt;
+&lt;em&gt;AY2020-21 Term 2&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Function or Ornament</title><link>https://craftdrl.org/events/21_22/</link><pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate><guid>https://craftdrl.org/events/21_22/</guid><description>&lt;p&gt;Transfer of Traditional Knowledge&lt;br&gt;
+&lt;em&gt;AY2021-22 Term 2&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Folding Movement</title><link>https://craftdrl.org/events/22_23/</link><pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate><guid>https://craftdrl.org/events/22_23/</guid><description>&lt;p&gt;Tectonics of Folding&lt;br&gt;
+&lt;em&gt;AY2022-23 Term 2&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Craft and Architecture</title><link>https://craftdrl.org/events/23_24/</link><pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate><guid>https://craftdrl.org/events/23_24/</guid><description>&lt;p&gt;Regenerating Hong Kong’s Countryside&lt;br&gt;
+&lt;em&gt;AY2023-24 Term 2&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Ephemeral Architectures</title><link>https://craftdrl.org/events/25_26/</link><pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate><guid>https://craftdrl.org/events/25_26/</guid><description>&lt;p&gt;In the historical city of Naples &lt;br&gt;
+&lt;em&gt;AY2025-26 Summer&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Volumetric Textile</title><link>https://craftdrl.org/events/24_25/</link><pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate><guid>https://craftdrl.org/events/24_25/</guid><description>&lt;p&gt;Transforming Textile into Architectural Tectonics&lt;br&gt;
+&lt;em&gt;AY2024-25 Summer&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

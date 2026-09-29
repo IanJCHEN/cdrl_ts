@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background about-cover">
-  <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+  <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
   {{ partial "mobile_nav_toggle.html" . }}
 </div>
 {{ end }}
